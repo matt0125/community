@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/local/openjdk14/bin/java -jar /usr/local/junit-platform-console-standalone-1.6.2/launcher.jar --disable-ansi-colors --disable-banner -cp . -c MainTest

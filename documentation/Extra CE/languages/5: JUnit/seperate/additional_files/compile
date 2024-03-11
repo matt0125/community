@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/local/openjdk14/bin/javac -cp /usr/local/junit-platform-console-standalone-1.6.2/launcher.jar:. MainTest.java
